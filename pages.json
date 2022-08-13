@@ -1,0 +1,267 @@
+{
+  "pages": [
+    //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "大都资产运营管理系统",
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/works/works",
+      "style": {
+        "navigationBarTitleText": "代办事项",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/application/index",
+      "style": {
+        "navigationBarTitleText": "扫一扫",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/inventoryQuery/warehouse/warehouse",
+      "style": {
+        "navigationBarTitleText": "场地库查询",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/inventoryQuery/project/project",
+      "style": {
+        "navigationBarTitleText": "项目库存",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/inventoryQuery/logistics/logistics",
+      "style": {
+        "navigationBarTitleText": "物流库存",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/inventoryQuery/sublease/sublease",
+      "style": {
+        "navigationBarTitleText": "转租库存",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/inventoryQuery/warehouse/detail",
+      "style": {
+        "navigationBarTitleText": "设备详情",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/shipmentRequest/index",
+      "style": {
+        "navigationBarTitleText": "发货申请",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/shipmentRequest/edit",
+      "style": {
+        "navigationBarTitleText": "编辑发货申请",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/signFor/index",
+      "style": {
+        "navigationBarTitleText": "待签收项目",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/signFor/equipList",
+      "style": {
+        "navigationBarTitleText": "待签收设备列表",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/signFor/userList",
+      "style": {
+        "navigationBarTitleText": "指定签收人",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/schedulingArrangement/schedulingArrangement",
+      "style": {
+        "navigationBarTitleText": "调度安排",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/loadingAndDelivery/loadingAndDelivery",
+      "style": {
+        "navigationBarTitleText": "装车发货",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/qualityTesting/qualityTesting",
+      "style": {
+        "navigationBarTitleText": "质检",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/schedulingArrangement/equipEdit",
+      "style": {
+        "navigationBarTitleText": "设备安排",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/schedulingArrangement/truckEdit",
+      "style": {
+        "navigationBarTitleText": "车辆安排",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/scan/scan",
+      "style": {
+        "navigationBarTitleText": "扫一扫",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/loadingAndDelivery/loadingEdit",
+      "style": {
+        "navigationBarTitleText": "装车发货",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/shipmentRequest/requestDetail",
+      "style": {
+        "navigationBarTitleText": "发货申请详情",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/qualityTesting/index",
+      "style": {
+        "navigationBarTitleText": "质检管理",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/aomanagerment/qualityTesting/testEdit",
+      "style": {
+        "navigationBarTitleText": "质检明细",
+        "enablePullDownRefresh": false,
+        "navigationBarBackgroundColor": "#4e6ef2",
+        "navigationBarTextStyle": "white"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "大都资产运营管理系统",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#1cbbb4",
+    "borderStyle": "black",
+    "backgroundColor": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-blue.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/works/works",
+        "iconPath": "static/tab-notify.png",
+        "selectedIconPath": "static/tab-notify-blue.png",
+        "text": "待办"
+      },
+      {
+        "pagePath": "pages/scan/scan",
+        "iconPath": "static/tab-cate.png",
+        "selectedIconPath": "static/tab-cate-blue.png",
+        "text": "扫一扫"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "iconPath": "static/tab-my.png",
+        "selectedIconPath": "static/tab-my-blue.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
